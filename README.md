@@ -74,3 +74,4 @@ def home(request):
 -------------------------------
 
 run python3 manage.py runserver
+pipenv install psycopg2-binary
